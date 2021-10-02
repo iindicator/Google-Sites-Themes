@@ -28,7 +28,7 @@ We worked tirelessly to generate the templates that deliver results that matter 
 
 A simple website does not need to be costly. All small business should be able to effort an awesome looking website that represents their business without breaking the bank.
 
-**CONTACT US**
+[**CONTACT US**](https://forms.gle/PMtjV1CVns65XTkR6 "**CONTACT US**")
 
 #### Pre-made Template
 Buy the best templates that suit your need from the list of pre-made Google Sites themes. Make professional-looking website
@@ -60,3 +60,4 @@ If you want the bespoke design for your business then get in touch with us and w
 18. [Dance Classes](https://sites.google.com/view/bwg-template-dance/home "Dance Classes")
 
 > Build beautiful websites quickly and easily with ready to use Google Sites Templates.
+
