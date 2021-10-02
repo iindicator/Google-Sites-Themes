@@ -19,7 +19,7 @@ We put our heart and soul into creating perfect Google Sites themes for your bra
 
 One of the most affordable and trusted website design, website development method using Google Sites. Choose from the range of available google site template that suits your business.
 
-**CHECK OUT TEMPLATES**
+[Check out Templates](#google-sites-templates "Check out Templates")
 
 ## Service we offer
 The first impression is the best. In today’s world, having a fully functioning website is not optional but critical to the success of a business. We understand it well, and we are making website design and development effortless and straightforward using Google Sites.
